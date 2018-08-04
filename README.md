@@ -1,7 +1,7 @@
 # cuba-on-kubernetes-infrastructure
 CUBA on Kubernetes example - Infrastructure project
 
-This project contains all required infrastructure work for Kubernetes through Terraform.
+This project contains all required infrastructure work for Kubernetes through Terraform. This example leverages an existing Terraform module from the terraform module registry: [kubernetes-engine](https://registry.terraform.io/modules/google-terraform-modules/kubernetes-engine/google/1.15.0)
 
 
 ### Usage
